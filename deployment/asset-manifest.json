@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beros.111/static/css/main.21b6bafa.css",
+    "main.js": "/beros.111/static/js/main.939541ce.js",
+    "static/js/787.9718534a.chunk.js": "/beros.111/static/js/787.9718534a.chunk.js",
+    "static/media/bg-hero.jpg": "/beros.111/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/beros.111/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/easy-customise.jpg": "/beros.111/static/media/easy-customise.d4fe22138e1668906aab.jpg",
+    "static/media/great-support.jpg": "/beros.111/static/media/great-support.13341f4e93333e45ebbe.jpg",
+    "static/media/advanced-option.jpg": "/beros.111/static/media/advanced-option.84c7d0693123632c9035.jpg",
+    "static/media/modern-design.jpg": "/beros.111/static/media/modern-design.e2114f5b8abbe8b1fa8b.jpg",
+    "static/media/clean-design.jpg": "/beros.111/static/media/clean-design.728069dab437b67d9da8.jpg",
+    "static/media/unlimited-features.jpg": "/beros.111/static/media/unlimited-features.a0b8acf77e6b57772078.jpg",
+    "index.html": "/beros.111/index.html",
+    "main.21b6bafa.css.map": "/beros.111/static/css/main.21b6bafa.css.map",
+    "main.939541ce.js.map": "/beros.111/static/js/main.939541ce.js.map",
+    "787.9718534a.chunk.js.map": "/beros.111/static/js/787.9718534a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b6bafa.css",
+    "static/js/main.939541ce.js"
+  ]
+}
